@@ -1,3 +1,5 @@
 <!-- _navbar.md -->
-<!-- Template: -[displayText](destinationLink) -->
+<!-- Template: - [displayText](destinationLink) -->
 
+- [about](about.md "About")
+- [changelog](changelog.md "Changelog")

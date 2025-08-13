@@ -1,7 +1,11 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](assets/_media/icon.png)
 
-# civilspaces
+# civil**Spaces**
 
-> a free-to-use resource for keeping your community spaces civil and healthy
+> *towards more healthier and constructive communities*
+
+<small>v1.01 • made with ❤️</small>
+
+[start](main.md "Welcome")
