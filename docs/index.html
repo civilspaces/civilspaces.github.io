@@ -31,8 +31,13 @@
   <link href="//fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Nata+Sans:wght@400;700&display=swap" rel="stylesheet">
 
   <style>
+    .cover img {
+      filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4));
+    }
+
     .cover h1 span {
       font-family: 'Nata Sans', sans-serif !important;
+      text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
       color: #337d10 !important;
     }
 
@@ -43,7 +48,63 @@
     .cover p {
       font-family: 'Inter', sans-serif !important;
     }
-    
+
+    /* Remove default numbering */
+    .markdown-section ol {
+      list-style: none;
+      padding-left: 0em;
+      margin: 0;
+    }
+
+    /* Level 1: Decimal in parentheses */
+    .markdown-section ol > li {
+      counter-increment: item1;
+      position: relative;
+      padding-left: 2.5em;
+      margin-bottom: 0.5em;
+    }
+
+    .markdown-section ol > li::before {
+      content: "(" counter(item1) ")";
+      position: absolute;
+      left: 0;
+    }
+
+    /* Level 2: Lower-alpha in parentheses (continuous) */
+    .markdown-section ol ol > li {
+      counter-increment: item2;
+    }
+
+    .markdown-section ol ol > li::before {
+      content: "(" counter(item2, lower-alpha) ")";
+    }
+
+    /* Level 3: Lower-roman in parentheses (continuous) */
+    .markdown-section ol ol ol > li {
+      counter-increment: item3;
+    }
+
+    .markdown-section ol ol ol > li::before {
+      content: "(" counter(item3, lower-roman) ")";
+    }
+
+    /* Level 4: Upper-alpha in parentheses (continuous) */
+    .markdown-section ol ol ol ol > li {
+      counter-increment: item4;
+    }
+
+    .markdown-section ol ol ol ol > li::before {
+      content: "(" counter(item4, upper-alpha) ")";
+    }
+
+    /* Custom interpretation style */
+    .markdown-section ul li:has(strong:first-child) {
+      list-style: none;
+      padding-left: 2em;
+      text-indent: -2em;
+      margin-bottom: 1em;
+    }
+
     :root {
       --selection-color: #337d10;
       --docsifytabs-tab-highlight-color: var(--selection-color);

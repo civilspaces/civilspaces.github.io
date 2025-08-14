@@ -4,5 +4,6 @@
 - **Main Resources**
   - <b>Community Members</b>
     - [Community Standards](standards.md "Community Standards Guide")
+    
   - <b>Moderators</b>
     - [Moderation & Enforcement](enforcement.md "Moderation & Enforcement Playbook")
