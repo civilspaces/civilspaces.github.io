@@ -2,7 +2,7 @@
 
 ![logo](assets/_media/icon.png)
 
-# *civil**Spaces**.*
+# civil**Spaces**.
 
 > towards more healthier and constructive communities
 
