@@ -1,4 +1,4 @@
-# *civil**Spaces***
+# *civil**Spaces**.*
 a free-to-use resource to help you foster a more healthy and constructive community
 
 ## about this resource

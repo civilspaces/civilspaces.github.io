@@ -71,7 +71,7 @@
       auto2top: true,
       autoHeader: true,
       coverpage: true,
-      onlyCover: true,
+      onlyCover: false,
       loadSidebar: true,
       loadNavbar: true,
       loadFooter: true,
@@ -99,6 +99,11 @@
       themeable: {
         readyTransition: true,
       },
+      progress: {
+        position: "top",
+        color: "var(--theme-color,#337d10)",
+        height: "3px",
+      },
       tabs: {
         persist: true,
         sync: true,
@@ -114,9 +119,11 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
 
+  <script src="//cdn.jsdelivr.net/gh/h-hg/docsify-image-caption/dist/docsify-image-caption.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination-keyboard-helper@latest/dist/bundle.js"></script>
