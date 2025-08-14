@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](assets/_media/icon.png)
+![logo](_assets/media/icon.png)
 
 # *civil**Spaces**.*
 
