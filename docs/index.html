@@ -14,13 +14,14 @@
   <link rel="icon" href="assets/_media/favicon.ico" />
 
   <!-- Stylesheets -->
-  <link rel="stylesheet" data-style-group="themeable" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" />
-  <link rel="stylesheet" data-style-group="themeable" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" />
+  <link rel="stylesheet" data-style-group="themeable" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" />
   <link rel="stylesheet" href="assets/css/main.css" />
 
   <!-- Test stylesheets -->
-  <!-- <link rel="stylesheet" media="(prefers-color-scheme: light)" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" /> -->
-  <!-- <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" /> -->
+  <!-- <link rel="stylesheet" data-style-group="themeable" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" /> -->
+  <!-- <link rel="stylesheet" data-style-group="themeable" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" /> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" /> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" /> -->
 
   <style>
     :root {
@@ -68,6 +69,14 @@
           '/': 'search'
         }
       },
+      chat: {
+        title: "",
+        users: [
+          { nickname: "Person A", avatar: "" },
+          { nickname: "Person B", avatar: "" },
+        ],
+        animation: 50,
+      },
       themeable: {
         readyTransition: true,
       },
@@ -92,5 +101,6 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination-keyboard-helper@latest/dist/bundle.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-chat/lib/docsify-chat.min.js"></script>
 </body>
 </html>
