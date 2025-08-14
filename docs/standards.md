@@ -24,10 +24,17 @@
             1. Level 4 indented list    - Used for sub-subparagraphs
                                           (similar to paragraphs but uses uppercase letters)
 
-    For interpretation (or "definitions") sections with multiple words, you can use a special type of
-    bulleted list but uses a "+" instead of "-" (also uses a custom-made html style), like this:
+    For interpretation (or "definitions") sections that has more than one word to be defined:
+
+<div class="interpretation-list">
 
 + **"word"** means ...
+
+</div>
+
+    While it seems unconventional, the <div> wrappers are necessary so it knows that
+    it is an interpretation list (currently looking for a way that doesnt require div wrappers).
+    Ensure that the word being defined is in bold as well.
 
 -->
 
@@ -43,8 +50,11 @@
 
 ### 2. Interpretation
 In this guide, unless there is something repugnant in the subject matter or context —
+<div class="interpretation-list">
+
 + **"word"** means ...
 
+</div>
 
 ## Part II. Core Principles
 ### X. Respect
