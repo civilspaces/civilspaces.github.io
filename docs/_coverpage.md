@@ -2,9 +2,9 @@
 
 ![logo](assets/_media/icon.png)
 
-# civil**Spaces**
+# *civil**Spaces**.*
 
-> *towards more healthier and constructive communities*
+> towards more healthier and constructive communities
 
 <small>v1.01 • made with ❤️</small>
 

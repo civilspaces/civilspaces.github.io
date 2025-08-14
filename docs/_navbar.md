@@ -3,3 +3,5 @@
 
 - [about](about.md "About")
 - [changelog](changelog.md "Changelog")
+- translations
+  - coming soon

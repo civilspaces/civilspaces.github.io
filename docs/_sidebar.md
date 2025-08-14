@@ -1,5 +1,8 @@
 <!-- _sidebar.md -->
 <!-- Template: - [DisplayText](mdfile.md "Title") -->
 
-- [Community Standards](standards.md "Community Standards Guide")
-- [Moderation & Enforcement](enforcement.md "Moderation & Enforcement Playbook")
+- **Main Resources**
+  - *Community Members*
+    - [Community Standards](standards.md "Community Standards Guide")
+  - *Moderators*
+    - [Moderation & Enforcement](enforcement.md "Moderation & Enforcement Playbook")

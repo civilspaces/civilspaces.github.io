@@ -1,12 +1,12 @@
 ## Welcome
 
-civil**Spaces** is a set of flexible, platform-neutral resources made to help you foster a more civil discussion in online community spaces.
+*civil**Spaces**.* is a set of flexible, platform-neutral resources made to help you foster a more civil discussion in online community spaces.
 
 These resources are designed with all kinds of communities in mind: from Discord servers, Reddit communities, to social forums and gaming guilds.
 
 In this page, you will find:
 - a **[Community Standards Guide](standards.md "Community Standards Guide")** which is a ruleset that outlines expectations for civil, respectful, and constructive participation across all community spaces; and
-- an **[Moderation & Enforcement Playbook](enforcement.md "Moderation & Enforcement Playbook")** that helps moderators and communities define proper standards for moderation.
+- a **[Moderation & Enforcement Playbook](enforcement.md "Moderation & Enforcement Playbook")** that helps moderators and communities define proper standards for moderation.
 
 These resources are updated periodically to include more useful information.
 
@@ -24,4 +24,4 @@ You may use these resources as-is, or you can adapt them to fit your own communi
 
 ### Credits
 
-civil**Spaces** is inspired from a similar guide that was written in the past (which was really helpful and informative), though it was more oriented towards Discord servers. When we tried to look for it again, the website was unfortunately no longer there. We made these resources as a tribute to that very guide.
+*civil**Spaces**.* is inspired from a similar guide that was written in the past (which was really helpful and informative), though it was more oriented towards Discord servers. When we tried to look for it again, the website was unfortunately no longer there. We made these resources as a tribute to that very guide.
