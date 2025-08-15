@@ -39,27 +39,32 @@
 -->
 
 # Community Standards Guide
-## Part I. Preliminary
-### 1. Preamble
-1. This guide outlines expectations for civil, respectful, and constructive participation across all community spaces. It ensures that everyone will be able to participate in discussions safely, respectfully and productively.
 
-2. These may be applied in all forms of community spaces and in all modes of communication, such as —
-    1. text;
-    2. voice; and
-    3. video.
+## Preliminary
 
-### 2. Interpretation
-In this guide, unless there is something repugnant in the subject matter or context —
-<div class="interpretation-list">
+### Preamble
+This guide outlines expectations for civil, respectful, and constructive participation across all community spaces. It ensures that everyone will be able to participate in discussions safely, respectfully and productively.
 
-+ **"word"** means ...
+These may be applied in all forms of community spaces and in all modes of communication and content, such as but not limited to by text, voice, and video.
 
-</div>
+## Core Principles
 
-## Part II. Core Principles
-### X. Respect
-Content
+### Respect
+All community members should value the dignity of their fellow community members — essentially, they should treat others in the same manner they want themselves to be treated.
 
-## Part III. Enforcement
-### X. How moderators may enforce guidelines
+### Constructiveness
+All community members should focus on meaningful contributions and discussions.
+
+### Openness
+All community members should engage with others with curiosity and a willingness to understand their viewpoints.
+
+### Accountability
+All community members should own their words and actions — if they commit mistakes, they should accept their mistakes and learn from it.
+
+### Safety
+All community members should protect and uphold the wellbeing of community members.
+
+## Enforcement
+
+### How moderators may enforce guidelines
 Content

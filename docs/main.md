@@ -34,4 +34,4 @@ You may use these resources as-is, or you can adapt them to fit your own communi
 
 ### Credits
 
-*civil**Spaces**.* is inspired from a similar guide that was written in the past (which was really helpful and informative), though it was more oriented towards Discord servers. When we tried to look for it again, the website was unfortunately no longer there. We made these resources as a tribute to that very guide.
+*civil**Spaces**.* is inspired from a similar guide/ruleset that was written in the past (which was really helpful and informative), though it was more oriented towards Discord servers. When we tried to look for it again, the website was unfortunately no longer there. We made these resources as a tribute to that very guide.
