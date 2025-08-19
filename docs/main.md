@@ -31,7 +31,3 @@ Healthy communities thrive when members feel respected, heard, and safe. These g
 These resources are merely a foundation; they are by no means exhaustive and complete. In the end, you have the power to set your own standards in your own community spaces, and define what are the things that are acceptable and otherwise for you.
 
 You may use these resources as-is, or you can adapt them to fit your own community's culture and needs.
-
-### Credits
-
-*civil**Spaces**.* is inspired from a similar guide/ruleset that was written in the past (which was really helpful and informative), though it was more oriented towards Discord servers. When we tried to look for it again, the website was unfortunately no longer there. We made these resources as a tribute to that very guide.
